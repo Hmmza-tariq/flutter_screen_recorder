@@ -1,4 +1,4 @@
-##How to record mobile screen in flutter? Android + IOS (2023)
+## How to record mobile screen in flutter? Android + IOS (2023)
 
 Youtube: https://youtu.be/WfuiezdwanU?si=mIOwVq-dlG6BruDH
 
